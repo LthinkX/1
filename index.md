@@ -8,5 +8,5 @@
 + 其他部分  
     时间[http://lthinkx.github.io/blog/time.html](http://lthinkx.github.io/1/time.html)    
 
-    八下历史[http://lthinkx.github.io/1/八下历史.md](http://lthinkx.github.io/1/八下历史.md "八下历史")
+    八上历史[http://lthinkx.github.io/1/八下历史.md](http://lthinkx.github.io/1/八上历史.md "八上历史")
     
